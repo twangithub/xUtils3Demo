@@ -25,8 +25,8 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".BigImageActivity" />
-        <activity android:name=".DownloadActivity" />
+        <activity android:name=".BigImageActivity" android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+        <activity android:name=".DownloadActivity" android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
     </application>
 
 </manifest>
