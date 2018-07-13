@@ -27,7 +27,7 @@ import java.util.List;
 /**
  * xutils 不支持 fragment 注解,无法调试
  */
-@ContentView(R.layout.activity_main)
+@ContentView(R.layout.activity_main2)
 public class MainActivity2 extends BaseActivity {
 
     @Override
